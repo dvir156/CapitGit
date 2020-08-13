@@ -10,6 +10,7 @@ namespace CapitGit
             //Console.WriteLine("World Hello");
             Console.WriteLine("Hello yoav");
             Console.WriteLine("Hello dvir");
+            Console.WriteLine("Hello dvir");
         }
     }
 }
