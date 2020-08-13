@@ -6,6 +6,6 @@ namespace CapitGit
 {
     public class Student : IPerson
     {
-
+        public int MyProperty { get; set; }
     }
 }
