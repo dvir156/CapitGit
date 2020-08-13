@@ -6,6 +6,7 @@ namespace CapitGit
     {
         static void Main(string[] args)
         {
+            int x = 1;
             Console.WriteLine("Hello World!");
             //Console.WriteLine("World Hello");
             Console.WriteLine("Hello yoav");
